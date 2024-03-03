@@ -1,20 +1,23 @@
-DB-FRY
+
+![db fry](dbfry.png)
+
+db-fry: Non-relational special
 ==
 
 Learning popular Data Structures around 
 popular NoSQL Databases and trying 
-to implement them in Rust.
+to implement them in Rust or Zig.
 
-- Project Type: Learning
-- Contribution: Personal and Private
-- Language: Rust
-- Status: In Progress
-- Start Date: 2021-08-01
-- End Date: 2021-12-31
-- Tags: `rust`, `data-structures`, `no-sql`, `databases`
-- Links: [GitHub]()
-- Description: Learning popular Data Structures around popular NoSQL Databases and trying to implement them in Rust.
+## Languages
 
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
+
+
+## Contribution
+
+This is a personal learning project, no contribution is expected.
 
 ## Following Data structures to learn and implement
 (Not in any particular order)
@@ -31,6 +34,3 @@ to implement them in Rust.
 - [x] T-Tree
 - [x] X-Tree
 - [x] Cuckoo Filter
-- [x] Z-Order Curve
-- [x] Hilbert Curve
-- [x] S2 Geometry
