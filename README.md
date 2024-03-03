@@ -22,15 +22,21 @@ This is a personal learning project, no contribution is expected.
 ## Following Data structures to learn and implement
 (Not in any particular order)
 
-- [x] Skip List
-- [x] B-Tree
-- [x] LSM Tree
-- [x] Bloom Filter
-- [x] HyperLogLog
-- [x] Merkle Tree
-- [x] R-Tree
-- [x] Quad Tree
-- [x] KD-Tree
-- [x] T-Tree
-- [x] X-Tree
-- [x] Cuckoo Filter
+### To Do
+- [ ] LSM Tree
+- [ ] B-Tree
+- [ ] Skip List
+- [ ] Commit Log
+
+### Probabilistic
+- [ ] Bloom Filter
+- [ ] HyperLogLog
+
+### Maybe/Maybe not
+- [ ] Merkle Tree
+- [ ] R-Tree
+- [ ] Quad Tree
+- [ ] KD-Tree
+- [ ] T-Tree
+- [ ] X-Tree
+- [ ] Cuckoo Filter
