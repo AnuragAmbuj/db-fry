@@ -1,10 +1,9 @@
-name: Rust
-
+name: db-fry
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "*" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "*" ]
 
 env:
   CARGO_TERM_COLOR: always
@@ -17,6 +16,6 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build
-      run: cargo build --verbose
+      run: ../build.sh
     - name: Run tests
-      run: cargo test --verbose
+      run: ../test.sh
